@@ -1,0 +1,22 @@
+a faire pour le ppt
+
+chap 3
+background
+forme de base image +coms
+formes complexes + commentaire geométrie indicée
+text 3D (options)
+chap4 : tranformations
+transf simples
+	multiple
+Chapitre apparence : 5 
+
+materiaux
+affichage 
+texture Pas géométrie complexe
+
+Chapitre 6 : eclairage 
+
+différentes sources lumineuse
+champs d'action de l'éclairage
+
+Chapitre 7 collision d'objet
